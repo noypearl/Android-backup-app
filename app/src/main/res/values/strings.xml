@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dont Backup Me</string>
+    <string name="hello">Hello, %1$s </string>
+    <string name="balance">Your balance is %1$d $</string>
+</resources>
